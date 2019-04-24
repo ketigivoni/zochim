@@ -1,0 +1,327 @@
+<!-- Note :
+   - You can modify the font style and form style to suit your website. 
+   - Code lines with comments ���Do not remove this code���  are required for the form to work properly, make sure that you do not remove these lines of code. 
+   - The Mandatory check script can modified as to suit your business needs. 
+   - It is important that you test the modified form before going live.-->
+   <div dir="rtl" class="elementor-element elementor-element-3f2be0a elementor-button-align-stretch elementor-widget elementor-widget-form" data-id="3f2be0a" data-element_type="widget" data-widget_type="form.default" style='margin:auto;'>
+        <div id='crmWebToEntityForm'>
+                <META HTTP-EQUIV ='content-type' CONTENT='text/html;charset=UTF-8'>
+                <form action='https://crm.zoho.com/crm/WebToContactForm' name=WebToContacts3169284000013334005 method='POST' onSubmit='javascript:document.charset="UTF-8"; return checkMandatory3169284000013334005()' accept-charset='UTF-8'>
+             
+                  <!-- Do not remove this code. -->
+                 <input type='text' style='display:none;' name='xnQsjsdp' value='b777083a44a082282d7c1f2d197aa7047453308c6b30f4c0a0a40bd93edf17fb'/>
+                 <input type='hidden' name='zc_gad' id='zc_gad' value=''/>
+                 <input type='text' style='display:none;' name='xmIwtLD' value='e2cbdf1a088c76db04f149935d7144e3b4ecf29a7f3ed5333a04596b2df3d042'/>
+                 <input type='text' style='display:none;'  name='actionType' value='Q29udGFjdHM='/>
+             
+                 <input type='text' style='display:none;' name='returnURL' value='https&#x3a;&#x2f;&#x2f;lp.zochim.co.il&#x2f;avivi-kitchens&#x2f;thank-you&#x2f;' /> 
+                  <!-- Do not remove this code. -->
+                 <style>
+                     tr , td { 
+                         padding:6px;
+                         border-spacing:0px;
+                         border-width:0px;
+                         }
+                 </style>
+                 <table style='background-color:white;color:black'>
+             
+                        <div class="elementor-form-fields-wrapper elementor-labels-">
+								<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-iyiwvoo elementor-col-100">
+                                        <label for="form-field-iyiwvoo" class="elementor-field-label elementor-screen-only">First Name</label>
+                                        <input size="1" type="text" maxlength='40' name='First Name' class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="שם פרטי" required="required" oninvalid="this.setCustomValidity('נא להכניס שם פרטי')" oninput="setCustomValidity('')">				
+                                    </div>
+                                    <div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-iyiwvoo elementor-col-100">
+                                        <label for="form-field-iyiwvoo" class="elementor-field-label elementor-screen-only">Last Name</label>
+                                        <input size="1" type="text" maxlength='80' name='Last Name' class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="שם משפחה" required="required" oninvalid="this.setCustomValidity('נא להכניס שם משפחה')" oninput="setCustomValidity('')">				
+                                    </div>
+                                    <div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-iyiwvoo elementor-col-100">
+                                        <label for="form-field-iyiwvoo" class="elementor-field-label elementor-screen-only">Mobile</label>
+                                        <input pattern="^[+]*[(]{0,1}[0-9]{1,4}[)]{0,1}[-\s\./0-9]*$" size="1" type="text" maxlength='30' name='Mobile' class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="טלפון נייד" required="required" oninvalid="this.setCustomValidity('נא להכניס טלפון נייד')" oninput="setCustomValidity('')">				
+                                    </div>
+                                    <div class="elementor-field-type-email elementor-field-group elementor-column elementor-field-group-on95tdy elementor-col-100 elementor-field-required">
+                                        <label for="form-field-on95tdy" class="elementor-field-label elementor-screen-only">Email</label>
+                                        <input size="1" type="email" maxlength='100' name='Email' class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="דואר אלקטרוני" required="required" aria-required="true" oninvalid="this.setCustomValidity('נא להכניס דואר אלקטרוני')" oninput="setCustomValidity('')">				
+                                    </div>
+                                    <div class="elementor-field-type-email elementor-field-group elementor-column elementor-field-group-on95tdy elementor-col-100 elementor-field-required">
+                                            <label for="form-field-on95tdy" class="elementor-field-label elementor-screen-only" >הסניף הקרוב אליך</label>
+                                            <select required class="elementor-field elementor-size-sm  elementor-field-textual" name='CONTACTCF1' oninvalid="this.setCustomValidity('נא לבחור את הסניף הקרוב אליך')" oninput="setCustomValidity('')">
+                                                    <option selected disabled value=''>הסניף הקרוב אליך</option>
+                                                    <option value='סניף ראשון לציון'>סניף ראשון לציון</option>
+                                                    <option value='סניף הרצליה'>סניף הרצליה</option>
+                                                    <option value='סניף בני ברק'>סניף בני ברק</option>
+                                                    <option value='סניף כרמיאל'>סניף כרמיאל</option>
+                                                    <option value='סניף אשדוד'>סניף אשדוד (אזור תעשיה בני דרום)</option>
+                                            </select>
+                                        </div>
+								<div style='display:none;'>
+									<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-iyiwvoo elementor-col-100">
+											<select style='width:250px;' name='Lead Source'>
+                                                    <option value='-None-'>-None-</option>
+                                                    <option value='&#x5e4;&#x5d9;&#x5d9;&#x5e1;&#x5d1;&#x5d5;&#x5e7;'>&#x5e4;&#x5d9;&#x5d9;&#x5e1;&#x5d1;&#x5d5;&#x5e7;</option>
+                                                <option selected value='Avivi'>Avivi</option>
+                                                    <option value='Shoval_mor_elem'>Shoval_mor_elem</option>
+                                                    <option value='&#x5e6;&#x5d5;&#x5e8;&#x20;&#x5e7;&#x5e9;&#x5e8;&#x20;-&#x20;&#x5d0;&#x5ea;&#x5e8;'>&#x5e6;&#x5d5;&#x5e8; &#x5e7;&#x5e9;&#x5e8; - &#x5d0;&#x5ea;&#x5e8;</option>
+                                                    <option value='&#x5d6;&#x5de;&#x5e0;&#x5d9;&#x20;-&#x20;&#x5de;&#x5d9;&#x5d9;&#x5dc;&#x20;&#x5d0;&#x5d5;&#x5d8;&#x5d5;&#x5de;&#x5d8;&#x5d9;'>&#x5d6;&#x5de;&#x5e0;&#x5d9; - &#x5de;&#x5d9;&#x5d9;&#x5dc; &#x5d0;&#x5d5;&#x5d8;&#x5d5;&#x5de;&#x5d8;&#x5d9;</option>
+                                                    <option value='&#x5d3;&#x5e3;&#x20;&#x5e0;&#x5d7;&#x5d9;&#x5ea;&#x5d4;'>&#x5d3;&#x5e3; &#x5e0;&#x5d7;&#x5d9;&#x5ea;&#x5d4;</option>
+                                                    <option value='&#x5ea;&#x5d9;&#x5d1;&#x5ea;&#x20;&#x5d3;&#x5d5;&#x5d0;&#x5e8;&#x20;&#x5d0;&#x5dc;&#x5e7;&#x5d8;&#x5e8;&#x5d5;&#x5e0;&#x5d9;'>&#x5ea;&#x5d9;&#x5d1;&#x5ea; &#x5d3;&#x5d5;&#x5d0;&#x5e8; &#x5d0;&#x5dc;&#x5e7;&#x5d8;&#x5e8;&#x5d5;&#x5e0;&#x5d9;</option>
+                                                    <option value='&#x5e4;&#x5e0;&#x5d9;&#x5d9;&#x5d4;&#x20;&#x5d0;&#x5d9;&#x5e9;&#x5d9;&#x5ea;'>&#x5e4;&#x5e0;&#x5d9;&#x5d9;&#x5d4; &#x5d0;&#x5d9;&#x5e9;&#x5d9;&#x5ea;</option>
+                                                    <option value='&#x5e9;&#x5d9;&#x5d7;&#x5ea;&#x20;&#x5d8;&#x5dc;&#x5e4;&#x5d5;&#x5df;'>&#x5e9;&#x5d9;&#x5d7;&#x5ea; &#x5d8;&#x5dc;&#x5e4;&#x5d5;&#x5df;</option>
+                                                    <option value='&#x5d0;&#x5ea;&#x5e8;&#x20;&#x5d0;&#x5d9;&#x5d2;&#x5d5;&#x5d3;&#x20;&#x5d4;&#x5d6;&#x5d5;&#x5db;&#x5d9;&#x5dd;'>&#x5d0;&#x5ea;&#x5e8; &#x5d0;&#x5d9;&#x5d2;&#x5d5;&#x5d3; &#x5d4;&#x5d6;&#x5d5;&#x5db;&#x5d9;&#x5dd;</option>
+                                                    <option value='&#x5d0;&#x5d7;&#x5e8;'>&#x5d0;&#x5d7;&#x5e8;</option>
+                                                    <option value='&#x5d8;&#x5d5;&#x5e4;&#x5e1;&#x20;&#x5d1;&#x5d3;&#x5d9;&#x5e7;&#x5ea;&#x20;&#x5de;&#x5d5;&#x5de;&#x5d7;&#x5d4;'>&#x5d8;&#x5d5;&#x5e4;&#x5e1; &#x5d1;&#x5d3;&#x5d9;&#x5e7;&#x5ea; &#x5de;&#x5d5;&#x5de;&#x5d7;&#x5d4;</option>
+                                                    <option value='Google&#x20;AdWords'>Google AdWords</option>
+                                                    <option value='&#x5e0;&#x5d7;&#x5d9;&#x5ea;&#x5d4;&#x20;-&#x20;&#x5de;&#x5e9;&#x5db;&#x5e0;&#x5ea;&#x5d0;'>&#x5e0;&#x5d7;&#x5d9;&#x5ea;&#x5d4; - &#x5de;&#x5e9;&#x5db;&#x5e0;&#x5ea;&#x5d0;</option>
+                                                    <option value='single'>single</option>
+                                                    <option value='2018_Law'>2018_Law</option>
+                                                    <option value='2018_Mortgage'>2018_Mortgage</option>
+                                                    <option value='2018_Leumi'>2018_Leumi</option>
+                                                    <option value='Facebook'>Facebook</option>
+                                                    <option value='Twitter'>Twitter</option>
+                                                    <option value='Google&#x2b;'>Google&#x2b;</option>
+                                                    <option value='Flamingo'>Flamingo</option>
+                                                </select>
+									</div>
+									<div class="elementor-field-type-email elementor-field-group elementor-column elementor-field-group-on95tdy elementor-col-100 elementor-field-required">
+                                        <input type='checkbox'  name='CONTACTCF133' checked='true'/>			
+									</div>
+								</div>
+								<div class="elementor-field-type-email elementor-field-group elementor-column elementor-field-group-on95tdy elementor-col-100 elementor-field-required">
+									<div class='dIB vat mT2' align='left' style='color: rgb(0, 0, 0); font-size: 12px; font-family: sans-serif;display: inline-block;vertical-align: top;'>
+										<div class='displayPurpose  f13'>
+											<label class='newCustomchkbox-md dIB w100per'>
+												<input autocomplete='off' onclick='disableSubmitUp()' id='privacyToolUp' type='checkbox' name='privacyTool' checked>
+												<span class='chkbxIcon'></span>
+											</label>
+										</div>
+									</div>
+									<div class='fw200 dIB vat mL5' style='nowrap:nowrap;text-align:right;font-size:12px;font-family:Arial;vertical-align: top;line-height: 14px;width:90%;display: inline-block;color:black;padding-right: 5px;'> אני מאשר/ת את תנאי השימוש ואת מדיניות הפרטיות והדיוור</div>
+								</div>
+								<div class="elementor-field-group elementor-column elementor-field-type-submit elementor-col-100">
+									<button type="submit" class="elementor-button elementor-size-sm" id='formsubmitup'>
+										<span>
+											<span class="elementor-button-text"> שלח/י</span>
+										</span>
+									</button>
+								</div>
+							</div>
+                </table>
+                 <script>
+                    var mndFileds=new Array('First Name','Last Name','Mobile','CONTACTCF1');
+                    var fldLangVal=new Array('First Name','Last Name','Mobile','הסניף הקרוב אליך');
+                     var name='';
+                     var email=''; 
+               
+             function disableSubmitUpwhileReset()
+                 {		
+                 var submitbutton = document.getElementById('formsubmitup');
+                 if(document.getElementById('privacyToolUp')!=undefined || document.getElementById('consentTool')!=undefined)
+                 {
+                     submitbutton.setAttribute('disabled', true);
+                 submitbutton.setAttribute('style','opacity:0.5;');
+              }
+                 else
+                 {
+                     submitbutton.removeAttribute('disabled');
+                 }
+             } 
+             function disableSubmitUp()
+                 {		
+                 var isprivacyToolAvail = false;
+                 var isconsentToolAvail = false;
+                 var bothtoolAvail = false;
+                 var privacytool='';
+                 var consenttool='';
+                 var submitbutton = document.getElementById('formsubmitup');
+                 if(document.getElementById('privacyToolUp')!=undefined && document.getElementById('consentTool')!=undefined)
+                 {
+                         isprivacyToolAvail=true;
+                         privacytool = document.getElementById('privacyTool');
+                         isconsentToolAvail=true;
+                         consenttool=document.getElementById('consentTool');
+                         bothtoolAvail=true;
+                 }
+             
+                 if(document.getElementById('privacyToolUp')!=undefined)
+                 {
+                         isprivacyToolAvail=true;
+                         privacytool = document.getElementById('privacyToolUp');
+                 }
+                 if(document.getElementById('consentTool')!=undefined)
+                 {
+                         isconsentToolAvail=true;
+                         consenttool=document.getElementById('consentTool');
+                 }
+                 if(submitbutton.hasAttribute('disabled') && bothtoolAvail && consenttool.checked && privacytool.checked)
+                 {
+                         submitbutton.removeAttribute('disabled');
+                 submitbutton.removeAttribute('style','opacity: none;');}
+                 else if(submitbutton.hasAttribute('disabled') && isprivacyToolAvail && privacytool.checked && consenttool=='')
+                 {
+                         submitbutton.removeAttribute('disabled');
+                 submitbutton.removeAttribute('style','opacity: none;');}
+                 else if(submitbutton.hasAttribute('disabled') && isconsentToolAvail && consenttool.checked && privacytool=='')
+                 {
+                         submitbutton.removeAttribute('disabled');
+             submitbutton.removeAttribute('style','opacity: none;');
+                 }
+                 else
+                 {
+                         submitbutton.setAttribute('disabled', true);
+                 submitbutton.setAttribute('style','opacity: 0.5;');}
+             }
+             
+                    function checkMandatory3169284000013334005() {
+                     for(i=0;i<mndFileds.length;i++) {
+                       var fieldObj=document.forms['WebToContacts3169284000013334005'][mndFileds[i]];
+                       if(fieldObj) {
+                         if (((fieldObj.value).replace(/^\s+|\s+$/g, '')).length==0) {
+                          if(fieldObj.type =='file')
+                             { 
+                              alert('Please select a file to upload.'); 
+                              fieldObj.focus(); 
+                              return false;
+                             } 
+                         alert(fldLangVal[i] +' cannot be empty.'); 
+                                   fieldObj.focus();
+                                   return false;
+                         }  else if(fieldObj.nodeName=='SELECT') {
+                                  if(fieldObj.options[fieldObj.selectedIndex].value=='-None-') {
+                             alert(fldLangVal[i] +' cannot be none.'); 
+                             fieldObj.focus();
+                             return false;
+                            }
+                         } else if(fieldObj.type =='checkbox'){
+                             if(fieldObj.checked == false){
+                             alert('Please accept  '+fldLangVal[i]);
+                             fieldObj.focus();
+                             return false;
+                            } 
+                          } 
+                          try {
+                              if(fieldObj.name == 'Last Name') {
+                             name = fieldObj.value;
+                                }
+                         } catch (e) {}
+                         }
+                     }
+                      }
+                    
+             </script>
+                 </form>
+             </div>
+    </div>        
+
+    <style type="text/css">
+        .elementor-widget-form {
+            max-width: 400px;
+        }
+        .elementor-widget:not(:last-child) {
+            margin-bottom: 20px;
+        }
+        .elementor-form-fields-wrapper {
+            display: -webkit-box;
+            display: -webkit-flex;
+            display: -ms-flexbox;
+            display: flex;
+            -webkit-flex-wrap: wrap;
+            -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+        }
+        .elementor-column {
+            display: -ms-flexbox;
+            display: flex;
+        }
+        .elementor-widget-form .elementor-field-group > label {
+            font-family: "heebo", Sans-serif;
+            font-weight: 400;
+        }
+        .elementor-widget-form .elementor-field-group > label, .elementor-widget-form .elementor-field-subgroup label {
+            color: #7a7a7a;
+        }
+        .elementor-field-label {
+            cursor: pointer;
+        }
+        .elementor-screen-only, .screen-reader-text, .screen-reader-text span, .ui-helper-hidden-accessible {
+            width: 1px;
+            height: 1px;
+            margin: -1px;
+            padding: 0;
+            overflow: hidden;
+            clip: rect(0,0,0,0);
+            border: 0;
+        }
+        .elementor-widget-form .elementor-field-group .elementor-field, .elementor-widget-form .elementor-field-subgroup label {
+            font-family: "heebo", Sans-serif;
+            font-weight: 400;
+        }
+        .elementor-widget-form .elementor-field-group .elementor-field {
+            color: #7a7a7a;
+        }
+        .elementor-field-textual.elementor-size-sm {
+            font-size: 15px;
+            min-height: 40px;
+            padding: 5px 14px;
+            -webkit-border-radius: 3px;
+            border-radius: 3px;
+            margin-bottom: 10px;
+        }
+        .elementor-field-group .elementor-field-textual {
+            width: 100%;
+            max-width: 100%;
+            border: 1px solid #818a91;
+            background-color: #fff;
+            color: #373a3c;
+            vertical-align: middle;
+            -webkit-box-flex: 1;
+            -webkit-flex-grow: 1;
+            -ms-flex-positive: 1;
+            flex-grow: 1;
+        }
+        input[type=text], input[type=email], input[type=url], input[type=password], input[type=search], input[type=tel], input[type=number], textarea, select {
+            background: #fafafa;
+            color: #666;
+            border: 1px solid #ccc;
+            border-radius: 0;
+            padding: 10px 15px;
+            box-sizing: border-box;
+            max-width: 100%;
+        }
+        .elementor-field-textual {
+            line-height: 1.4;
+        }
+        button, input, select, textarea {
+            font-size: 100%;
+            margin: 0;
+            vertical-align: baseline;
+        }
+        .elementor-column.elementor-col-100, .elementor-column[data-col="100"] {
+            width: 100%;
+        }
+        .elementor-field-group.elementor-field-type-submit {
+            -webkit-box-align: end;
+            -webkit-align-items: flex-end;
+            -ms-flex-align: end;
+            align-items: flex-end;
+        }
+        .elementor-column.elementor-col-100, .elementor-column[data-col="100"] {
+            width: 100%;
+        }
+        .elementor-button-align-stretch .elementor-field-type-submit button {
+            -webkit-flex-basis: 100%;
+            -ms-flex-preferred-size: 100%;
+            flex-basis: 100%;
+        }
+        .elementor-widget-form .elementor-button {
+            background-color: #ad0060;
+            font-family: "heebo", Sans-serif;
+            font-weight: 500;
+        }
+        button, html input[type=button], input[type=reset], input[type=submit] {
+            border: 1px solid transparent;
+            background: #666;
+            cursor: pointer;
+            -webkit-appearance: button;
+            padding: 10px 20px;
+            color: #fff;
+        }
+        </style>
